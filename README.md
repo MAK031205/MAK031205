@@ -74,6 +74,8 @@ Current Focus:
 - Environmental Storytelling
 - Player Decision-Making Research
 
+Status: Active Development
+
 ---
 
 ## Technical Skills
