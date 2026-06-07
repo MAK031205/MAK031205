@@ -6,7 +6,7 @@
 
 I focus on gameplay programming, rapid prototyping, and game systems development using Unity and C#. My interests lie at the intersection of gameplay mechanics, player decision-making, AI systems, and interactive experiences.
 
-📄 **Resume:** [View Resume](https://drive.google.com/file/d/12PLE7e89rEDUjf8SPfq5SVzrzaW2HFX2/view?usp=sharing)
+📄 **Resume:** [View Resume](https://drive.google.com/file/d/1Ue36UdyHPQAx-5AIyQqTKiPsR2qM6LhK/view?usp=sharing)
 
 💼 **LinkedIn:** https://www.linkedin.com/in/mohd-ayaan-khan-1127762b0/
 
