@@ -8,7 +8,7 @@ I am a 3rd-year B.Tech Information Technology student at Manipal Institute of Te
 
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/Resume-PDF-D14836?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Ue36UdyHPQAx-5AIyQqTKiPsR2qM6LhK/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-PDF-D14836?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1PU3uNLdzudov27hcGD_s6qKopoSJ-EJ1/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-ayaan-khan-1127762b0/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://mohdayaankhan.itch.io)
 [![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://mak031205.artstation.com)
