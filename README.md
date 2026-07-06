@@ -1,8 +1,8 @@
 # Hi, I'm Mohd Ayaan Khan 👋
 
-### Unity Gameplay Programmer | Game Systems & Prototyping
+### Software Engineer | Intelligent Systems & Gameplay Architecture
 
-I am a 2nd-year B.Tech Information Technology student at Manipal Institute of Technology Bengaluru, specializing in gameplay programming, rapid prototyping, and interactive systems design. I bridge code, game feel, and developer tooling to build responsive mechanics and specialized creative pipelines.
+I am a 3rd-year B.Tech Information Technology student at Manipal Institute of Technology, focused on intelligent systems, gameplay architecture, and AI-assisted tooling. Currently, I am building multi-agent workflows with LangGraph at Nippon India Mutual Funds while developing game systems in Unity and Unreal Engine. I am passionate about designing software where systems engineering and interactive experiences meet.
 
 ---
 
@@ -18,15 +18,24 @@ I am a 2nd-year B.Tech Information Technology student at Manipal Institute of Te
 
 ---
 
+## 💼 Professional Experience
+
+**Nippon India Mutual Funds** — *IT Intern* (June 2026 – Present)
+- **Multi-Agent Workflows:** Designed and implemented automated Python workflows with **LangGraph**, cutting manual execution times for internal reporting and data routing.
+- **Data Integrations:** Engineered scalable data flow integrations across database services using API-driven methodologies.
+- **Technical Specifications:** Authored technical design specifications to map system requirements, ensuring zero-downtime support for core software infrastructure.
+
+---
+
 ## 🛠️ Tech Stack & Skills
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | `C#` `C++` `C` `Python` |
-| **Engines** | `Unity Engine` `Unreal Engine` |
-| **Gameplay Systems** | `Vehicle Physics` `AI Navigation` `Behavior Trees` `State Machines` |
-| **Design & Writing** | `Ink Integration` `Dialogue Systems` `Multi-Agent NLP Systems` |
-| **Content Creation** | `Blender` `Environment Design` `Low-poly Modeling` |
+| **Languages** | `Python` `Java` `C#` `C++` `C` |
+| **Frameworks & Engines** | `LangGraph` `Unity Engine` `Unreal Engine 5` |
+| **Software Engineering** | `REST APIs` `Agile (SDLC)` `OOP` `State Machines` `Specification Writing` |
+| **Gameplay & AI** | `Vehicle Physics` `Autonomous Decision-Making` `Pathfinding` `AI Navigation` |
+| **Content Creation** | `Blender` `Low Poly Modeling` `Environment Design` |
 
 ---
 
